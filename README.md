@@ -11,3 +11,9 @@ Below is the architecture description for the same.
 
 ![rch_imag](images/arch_image.png)
 
+
+### References:
+
+1. [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195)
+2. Inspired from Tensorflow Implementation of  https://github.com/dhwajraj/deep-siamese-text-similarity
+3. Inspired from Tlstm siamese text similarity Implementation of https://github.com/amansrivastava17/lstm-siamese-text-similarity
